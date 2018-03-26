@@ -7,12 +7,12 @@ body {
 p {
 color: #28283e;
   font-family: Avenir, 'Avenir', serif;
-  font-size: 14px; 
+  font-size: 1em; 
 }
 
 h1 {
 font-family: Andale, 'Andale Mono', serif;
-  font-size: 28px;
+  font-size: 2em;
   color: DarkOliveGreen; 
 	text-align: center;
 }
@@ -21,7 +21,7 @@ font-family: Andale, 'Andale Mono', serif;
 	  font-family: Andale, 'Andale Mono', serif;
 	  font-style: italic; 
 	  font-weight: bold;
-	  font-size: 14px; 
+	  font-size: 1em; 
 	  color: DarkOliveGreen; 
 }
 .summary {
