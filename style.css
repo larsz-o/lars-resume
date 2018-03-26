@@ -26,3 +26,7 @@ font-family: Andale, 'Andale Mono', serif;
 .summary {
 	text-align: center;
 }
+
+.main {
+	background-color: #e0e0eb;
+}
