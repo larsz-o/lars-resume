@@ -1,3 +1,19 @@
-p {
-color: red;
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
 }
+
+p {
+color: gray;
+  font-family: Avenir, 'Avenir', serif;
+  font-size: 14px; 
+}
+
+h1 {
+font-family: Andale, 'Andale Mono', serif;
+  font-size: 28px;
+  color: DarkOliveGreen; 
+}
+  
