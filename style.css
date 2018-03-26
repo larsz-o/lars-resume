@@ -23,3 +23,6 @@ font-family: Andale, 'Andale Mono', serif;
 	  font-size: 14px; 
 	  color: DarkOliveGreen; 
 }
+.summary {
+	text-align: center;
+}
