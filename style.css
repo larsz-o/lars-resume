@@ -2,13 +2,13 @@ body {
 	height: 100%;
 	margin: 0;
 	width: 100%;
-	background-color: #e1e1ea;
+	background-color: #d9d9d9
+	font-family: Avenir, 'Avenir', serif;
 }
 
 p {
 color: #28283e;
-  font-family: Avenir, 'Avenir', serif;
-  font-size: 1.25em; 
+  font-size: 1em; 
 }
 
 h1 {
@@ -35,4 +35,5 @@ font-family: Andale, 'Andale Mono', serif;
 }
 #contact {
 	font-size: 1em;
+	text-align: center;
 }
