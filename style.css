@@ -16,4 +16,10 @@ font-family: Andale, 'Andale Mono', serif;
   font-size: 28px;
   color: DarkOliveGreen; 
 }
-  
+
+  h3 {
+	  font-family: Andale, 'Andale Mono', serif;
+	  font-style: italic; 
+	  font-size: 14px; 
+	  color: gray; 
+}
