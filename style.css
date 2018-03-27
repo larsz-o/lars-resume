@@ -9,7 +9,7 @@ body {
 h1 {
 font-family: Andale, 'Andale Mono', serif;
   font-size: 2em;
-  color: #4CAF50; 
+  color: #B7D615; 
 	text-align: center;
 	padding: 40px;
 }
@@ -52,7 +52,7 @@ text-align: left;
 }
 
 .topnav a.active {
-    background-color: #DBE52E;
+    background-color: #B7D615;
     color: white;
 }
 
