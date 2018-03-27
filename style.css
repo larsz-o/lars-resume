@@ -2,20 +2,20 @@ body {
 	height: 100%;
 	margin: 60px;
 	width: 85%;
-	background-color: #ffeee6;
+	background-color: #f5f5f0;
 	font-family: Georgia; 
 }
 
 p {
 color: #28283e;
   font-size: 1em; 
-  font-weight: bold; 
+
 }
 
 h1 {
 font-family: Andale, 'Andale Mono', serif;
   font-size: 2em;
-  color: DarkOliveGreen; 
+  color: #4d4dff; 
 	text-align: center;
 }
 
@@ -24,7 +24,7 @@ font-family: Andale, 'Andale Mono', serif;
 	  font-style: italic; 
 	  font-weight: bold;
 	  font-size: 1em; 
-	  color: DarkOliveGreen; 
+	  color: #4d4dff; 
 }
 .summary {
 	text-align: center;
@@ -38,12 +38,8 @@ font-family: Andale, 'Andale Mono', serif;
 	font-size: 1em;
 	text-align: center;
 	color: white; 
-	border-top-style: dotted;
-    	border-right-style: solid;
-    	border-bottom-style: dotted;
-    	border-left-style: solid;
-	border-color: black;
-	background: gray;
+	border-left: 6px solid #4d4dff;
+    	background-color: lightgrey;
 }
 .education {
 	font-weight: normal;
