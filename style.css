@@ -32,7 +32,8 @@ font-family: Andale, 'Andale Mono', serif;
 }
 
 .main {
-	
+	border: 2px solid #4d4dff;
+    	border-radius: 12px
 }
 #contact {
 	font-size: 1em;
