@@ -39,9 +39,6 @@ h3 {
 	font-size: 1em;
 	text-align: center;
 	color: ##993d00; 
-	border-left: 6px;
-	border-style: solid; 
-	border-color: #4d4dff;
     	background-color: lightgrey;
 	padding: 25px;
 }
@@ -50,4 +47,4 @@ h3 {
 	font-weight: normal; 
 	background-color: #4d4dff; 
 	color: white; 
-
+}
