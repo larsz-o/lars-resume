@@ -58,6 +58,13 @@ background-color: #4d4dff;
     color: white;
 }
 
+.center {
+	 display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .summary {
 	text-align: center;
 	
