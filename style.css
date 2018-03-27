@@ -46,4 +46,8 @@ font-family: Andale, 'Andale Mono', serif;
 }
 th {
     text-align: left;
+	font-weight: normal; 
+	background-color: #4d4dff; 
+	color: white; 
+	
 }
