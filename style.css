@@ -16,12 +16,13 @@ font-family: Andale, 'Andale Mono', serif;
 	  font-family: Andale, 'Andale Mono', serif;
 	  font-style: italic; 
 	  font-weight: bold;
-	  font-size: 1em; 
+	  font-size: 1.25em; 
 	  color: #4d4dff; 
 }
 
 h3 {
 	font-weight: bold;
+	font-size: 1em;	
 }
 
 .summary {
@@ -30,8 +31,9 @@ h3 {
 }
 
 .main {
-	margin: 60px;
+	width: 60%;
 }
+
 .contact {
 	font-size: 1em;
 	text-align: center;
@@ -46,5 +48,4 @@ h3 {
 	font-weight: normal; 
 	background-color: #4d4dff; 
 	color: white; 
-	
 }
