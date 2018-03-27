@@ -39,11 +39,12 @@ font-family: Andale, 'Andale Mono', serif;
 	font-size: 1em;
 	text-align: center;
 	color: white; 
-	border-left: 6px solid #4d4dff;
+	border-left: 6px;
+	border-color: #4d4dff;
     	background-color: lightgrey;
 	padding: 25px;
 }
 .education {
-	
+	font-weight: normal; 
 	
 }
