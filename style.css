@@ -25,6 +25,15 @@ h3 {
 	font-weight: bold;
 	font-size: 1em;	
 }
+table {
+	width: 60%
+}
+
+th {
+text-align: left;    
+background-color: #4d4dff;
+    color: white;
+}
 
 .summary {
 	text-align: center;
@@ -42,12 +51,5 @@ h3 {
     	background-color: lightgrey;
 	padding: 25px;
 }
-    border-collapse: collapse;
-    width: 100%;
-}
+   
 
-.th {
-text-align: left;    
-background-color: #4d4dff;
-    color: white;
-}
