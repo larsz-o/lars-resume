@@ -46,13 +46,8 @@ h3 {
     width: 100%;
 }
 
-th, td {
-    text-align: left;
-    padding: 8px;
-}
-
-
-th {
-    background-color: #4d4dff;
+.th {
+text-align: left;    
+background-color: #4d4dff;
     color: white;
 }
