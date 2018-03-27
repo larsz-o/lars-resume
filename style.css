@@ -9,6 +9,7 @@ body {
 p {
 color: #28283e;
   font-size: 1em; 
+  font-weight: bold; 
 }
 
 h1 {
