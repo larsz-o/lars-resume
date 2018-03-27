@@ -38,7 +38,7 @@ font-family: Andale, 'Andale Mono', serif;
     	background-color: lightgrey;
 	padding: 25px;
 }
-th {
+.th {
     text-align: left;
 	font-weight: normal; 
 	background-color: #4d4dff; 
