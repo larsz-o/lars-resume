@@ -37,8 +37,9 @@ h3 {
 .contact {
 	font-size: 1em;
 	text-align: center;
-	color: #ff751a; 
+	color: ##993d00; 
 	border-left: 6px;
+	border-style: solid; 
 	border-color: #4d4dff;
     	background-color: lightgrey;
 	padding: 25px;
