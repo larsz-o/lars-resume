@@ -33,6 +33,21 @@ background-color: #4d4dff;
 	font-weight: normal;
 }
 
+nav {
+    font-size: 1em;
+    font-family: georgia;
+    text-align: center;
+}
+
+.navigation {
+	 width: 119px;
+    border: solid 1px;
+    float: left;
+    padding: 10px 0;
+	background-color: #4d4dff;
+	color: white; 
+}
+
 .summary {
 	text-align: center;
 	
