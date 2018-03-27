@@ -2,7 +2,7 @@ body {
 	height: 100%;
 	margin: 60px;
 	width: 85%;
-	background-color: #d9d9d9
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAWlBMVEX+//r///zf28f+//n4+PD7/PX7/PjKyd7v7uL08+n39+/z9PTx8OX3+Pbe3uj4+fbq6+7q6Nnl4tHa2ubn5+3r6tzj4+vv8PLd3ejS0eLU0+Po6e3Lyd7j4M2s7TONAAADhUlEQVR4nO3dy3LaQBRF0W70Qi9ACJBtOf//myHleXoPuoRI9hrfEkdyh8H1sRKCJEkSF9FQLLJdK+/UtsFacpluIFPVsco2FYaOTLUDeQ7lQB4pCPaLRL8eyvRQvB9A9NgeJnCD1eEKchW/DiB+vB46EOx4OKamWpA8dsf00PMG7+jMHMGDf0ZHweDJYvHTJwt+Z5GpzN9G+aayBpMkSZIkSdrEC/YxaGqPwfoLucy4kql6rcnYOpKpZQFDEca/kalwSwSLTQOix7m5gFXtrXmAqaX5Aj/oumnSQyF+Nj2Y+mhWEGxtPhJTF/TQ+wc5M+cHOjMPcH/P80fOTFxQ/BHFr5Px33yH7KZZkiRJkiS9nx2uan+m9riPAdXUEMoW1X0HslArBtI8jS0K1qGyNWwrp4Ptt60MbhC2lacDeKakrUwa7rFFdd8StZWrO2krhyM5M3EgwWJ3RycrHX+PXw38I1/wzSZJkiRJkrQjuy3YbRks9qQUHEZUCq4vqK18YW1l1DwdUfwzih9S8eNnc05fJc4NCAXbyn0zo7byZ3roGf+btJVPqGy9Nqe/T8X1QTL1J9RWPpEzU58W8q/iRnrI8ULiBxa/PvWJYK/4JdRed8humiVJkiRJ0iZ221ZGUxt/JHqFcYVKwRXqNBctek9uh5qnJeo0s/hFOv5/0lbO825lVPdtUd23nFBbeUKn4Y5eFD7cwdAzPglWTskT8YKF7uYfaVtZkiRJkiS9n73ukPe4aR5RKfiMSsH1gtrKC2or9xnbyjWaCqn4OdvKAbWVQ962Mnq3MmsrXzK1lZeZnJlxJqeh/kBt5ceN/C9+K+oh9zM4EeGcjP9fvPHCTbMkSZIkSXo/u90hM7k+skR1X9RpZs1nNhU71GmuMsYvumxtZbCE3b6tHGhbGXR+s7WVhwkkj91UkccwgZ51KCbUVj6ytjKpUccdtpWLve6QC7hpliRJkiRJ0s6wtnKNppJ13x89mhpRp/mcM34qWPz8Jm3lj2/ybuV1+3crfzXgmWZrKz9OJNMF1X37OfVy4j/qeSVbyhOqUd9IjTouMzmm41eqRv2KUvA+N814TJIkSZIkaROk4PmSP79GwXIhNdBQoFIwbCuX5P5iydrKMD65Foj/1u9WfgbbtK2M6r5HVPdtr+QnWF1ZW5nUqMN9AkNxuJIT0V2Tj3Svq9pXTLlDlvQv+Q2aUBrV6tXv5gAAAABJRU5ErkJggg==")
 	font-family: Georgia; 
 }
 
@@ -33,7 +33,7 @@ font-family: Andale, 'Andale Mono', serif;
     	border-bottom-style: dotted;
     	border-left-style: solid;
 	border-color: orange;
-	background: #e6e6ff; 
+	
 }
 
 .main {
@@ -45,5 +45,5 @@ font-family: Andale, 'Andale Mono', serif;
 }
 .education {
 	font-weight: normal;
-	column-count: 3
+	
 }
