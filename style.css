@@ -43,11 +43,7 @@ font-family: Andale, 'Andale Mono', serif;
 	font-size: 1em;
 	text-align: center;
 }
-
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
+.education {
+	font-weight: normal;
+	column-count: 3
 }
-
-th {
-    text-align: left;
