@@ -27,7 +27,12 @@ font-family: Andale, 'Andale Mono', serif;
 }
 .summary {
 	text-align: center;
-	border-style: dotted;
+	 border-top-style: dotted;
+    	border-right-style: solid;
+    	border-bottom-style: dotted;
+    	border-left-style: solid;
+	border-color: orange;
+	background: #e6e6ff; 
 }
 
 .main {
